@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "CV Tatsiana Shulha"
+description: "Hey!"
 
 # Build settings
 markdown: kramdown
@@ -11,13 +11,13 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
-resume_name:                    "Surftocat"
-resume_title:                   "Professional Surfer"
-resume_contact_email:           "surftocat@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Diego, California"
-resume_header_contact_info: "San Diego, California | 1-(877)-448-4820 | surftocat@github.com"
-resume_header_intro: "<p>Professional Surfer, 'nuff said.</p>"
+resume_name:                    "Tatsiana Shulha"
+resume_title:                   "Frontend Developer"
+resume_contact_email:           "tsulga6@gmail.com"
+resume_contact_telephone:       "375256755301"
+resume_contact_address:         "Belarus"
+resume_header_contact_info: "Minsk | 375256755301 | stsulga6@gmail.com"
+resume_header_intro: "<p>Learning JS, React etc.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,11 +39,11 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/tanyashulha/merge-conflicts"
+  resume_twitter_url:           "http://twitter.com"
+  resume_dribbble_url:          "https://dribbble.com"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/tatyana-shulha-b61918175"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
